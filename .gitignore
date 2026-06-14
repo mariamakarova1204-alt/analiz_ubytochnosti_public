@@ -1,0 +1,39 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Виртуальные окружения
+venv/
+.env/
+
+# Базы данных
+*.db
+*.sqlite
+*.sqlite3
+
+# Excel
+*.xlsx
+*.xls
+
+# CSV с реальными данными
+data/raw/
+*.csv
+
+# Power BI временные файлы
+*.tmp
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Исходные данные проекта
+Данные/
+
+*.xlsx
+*.xls
